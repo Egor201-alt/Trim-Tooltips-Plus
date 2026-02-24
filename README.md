@@ -1,1 +1,1 @@
-# Trim-Tooltips-Plus
+Trim Tooltips+

@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "egor201.trimtooltipsplus.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ArmorTrimMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
